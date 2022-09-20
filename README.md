@@ -1,1 +1,1 @@
-#Myprometheus
+# prometheus template
